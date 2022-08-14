@@ -72,7 +72,7 @@ RUSH B
 - **Orange liquer (triple sec)**  | 1  Ounce (30 ml)
 - *Shake with ice*
 
-### Tequila Sunrise - 1970s
+## Tequila Sunrise - 1970s
 California in a glass.
 - **Tequila**  | 2  Ounces (60 ml)
 - **Orange Juice**  | 4  Ounces (120 ml)
