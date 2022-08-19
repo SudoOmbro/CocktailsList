@@ -79,9 +79,16 @@ California in a glass.
 - **Grenadine**  | 1/2  Ounce (15 ml)
 - Garnish: Orange slice & Cherry
 
+## Moscow Mule - 1930s
+Or "How to trick a nation into drinking hard liqour".
+- **Vodka**  | 2  Ounces (60 ml)
+- **Lime juice**  | 1/2 Ounce (15 ml)
+- **Ginger root beer**  | 3  Ounces (90 ml)
+- Garnish: lime wheel
+
 ## The Immigrant - 2020s
 A coffee delight.
 - **Espresso Coffee**  | 1.5  Ounces (90 ml)
-- **Kahlúa**  | 1  Ounce (30 ml)
+- **Baylies**  | 1  Ounce (30 ml)
 - **Vodka**  |1  Ounce (30 ml)
 - *stir*
