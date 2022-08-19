@@ -29,7 +29,7 @@ There's no tea in it.
 ## Gin Tonic - early 1800s
 It cures malaria! Or so the british said.
 - **Gin**  | 2  Ounces (60 ml)
-- **Tonic water**  | 2  Ounces (120 ml)
+- **Tonic water**  | 4  Ounces (120 ml)
 - **Lime juice** | 1 Tablespoon (15 ml)
 - *Stir*
 - Garnish: Lime wedge
@@ -78,3 +78,10 @@ California in a glass.
 - **Orange Juice**  | 4  Ounces (120 ml)
 - **Grenadine**  | 1/2  Ounce (15 ml)
 - Garnish: Orange slice & Cherry
+
+## The Immigrant - 2020s
+A coffee delight.
+- **Espresso Coffee**  | 1.5  Ounces (90 ml)
+- **Kahlúa**  | 1  Ounce (30 ml)
+- **Vodka**  |1  Ounce (30 ml)
+- *stir*
