@@ -123,6 +123,7 @@ The sun is rising in the US.
 # Shots
 
 ## Atomic dog shooter
+🎵"Atom bomb baby, little atom bomb, a million times hotter than TNT"🎵
 - **Midori**  | 1/2 Ounce (15ml)
 - **Malibu**  | 1/2 Ounce (15ml)
 - **Dark Rum**  | 1/2 Ounce (15ml)
