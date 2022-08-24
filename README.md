@@ -1,6 +1,6 @@
 # Cocktails
 
-## Cuba Libre - 1900s
+## Cuba Libre - 🔥
 The drink of true Patriots. And Libertarians.
 - **Dark Rum**  | 1  Ounce (30 ml)
 - **Coca Cola**  | 3  Ounces (90 ml)
@@ -8,7 +8,7 @@ The drink of true Patriots. And Libertarians.
 - *Stir*
 - Garnish: Lime wedge
 
-## Daiquiri - 1890s
+## Daiquiri - 🔥🔥
 What did Ernest Hemingway and John F. Kennedy have in common? They both died from a bullet. Also this drink.
 - **Light Rum**  | 2  Ounces (60 ml)
 - **Lime juice**  | 1  Ounce (30 ml)
@@ -16,7 +16,7 @@ What did Ernest Hemingway and John F. Kennedy have in common? They both died fro
 - *Shake with ice*
 - Garnish: Lime twist
 
-## Long Island iced tea - 1970s
+## Long Island iced tea - 🔥🔥🔥🔥
 There's no tea in it.
 - **Vodka**  | 3/4  Ounce (20 ml)
 - **White rum** | 3/4  Ounce (20 ml)
@@ -28,7 +28,19 @@ There's no tea in it.
 - Top with **Cola**
 - Garnish: Lemon wedge
 
-## Gin Tonic - early 1800s
+## Japanese ice tea - 🔥🔥🔥🔥
+The blade of the Shogun, directly into your liver.
+- **Vodka**  | 3/4  Ounce (20 ml)
+- **White rum** | 3/4  Ounce (20 ml)
+- **Midori** | 3/4  Ounce (20 ml)
+- **Triple sec** | 3/4  Ounce (20 ml)
+- **Gin**  | 3/4  Ounce (20 ml)
+- **Lemon juice** | 3/4  Ounce (20 ml)
+- *Stir*
+- Top with **Cola**
+- Garnish: Lemon wedge
+
+## Gin Tonic - 🔥
 It cures malaria! Or so the british said.
 - **Gin**  | 2  Ounces (60 ml)
 - **Tonic water**  | 4  Ounces (120 ml)
@@ -36,7 +48,7 @@ It cures malaria! Or so the british said.
 - *Stir*
 - Garnish: Lime wedge
 
-## Margarita - 1930s
+## Margarita - 🔥🔥
 From Tijuana, with Love.
 - **Tequila**  | 2  Ounces (60 ml)
 - **Orange liquer (triple sec)**  | 1/2  Ounce (15 ml)
@@ -45,18 +57,18 @@ From Tijuana, with Love.
 - *Shake with ice*
 - Garnish: lime wheel + salt rim
 
-##  White Russian - 1960s
+##  White Russian - 🔥🔥
 The Dude Abides.
 - **Vodka**  | 2  Ounces (60 ml)
 - **Kahlúa**  | 1  Ounce (30 ml)
 - Top with **heavy cream / milk**
 
-##  Black Russian - 1950s
+##  Black Russian - 🔥🔥
 A dark drink for darker times.
 - **Vodka**  | 2  Ounces (60 ml)
 - **Kahlúa**  | 1  Ounce (30 ml)
 
-## Mojito - 1500s
+## Mojito - 🔥
 A Cuban classic.
 - 3  **mint leaves**
 - **Simple syroup**  | 1/2  Ounce (15 ml)
@@ -67,35 +79,36 @@ A Cuban classic.
 - Garnish: mint sprig
 - Garnish: lime wheel
 
-## КГБ (KGB) - 2020s
+## КГБ (KGB) - 🔥🔥🔥
 RUSH B
 - **Vodka**  | 1  Ounce (30 ml)
 - **Gin**  | 1  Ounce (30 ml)
 - **Orange liquer (triple sec)**  | 1  Ounce (30 ml)
+- Top with **Soda**
 - *Shake with ice*
 
-## Tequila Sunrise - 1970s
+## Tequila Sunrise - 🔥
 California in a glass.
 - **Tequila**  | 2  Ounces (60 ml)
 - **Orange Juice**  | 4  Ounces (120 ml)
 - **Grenadine**  | 1/2  Ounce (15 ml)
 - Garnish: Orange slice & Cherry
 
-## Moscow Mule - 1930s
+## Moscow Mule - 🔥
 Or "How to trick a nation into drinking hard liqour".
 - **Vodka**  | 2  Ounces (60 ml)
 - **Lime juice**  | 1/2 Ounce (15 ml)
 - **Ginger root beer**  | 3  Ounces (90 ml)
 - Garnish: lime wheel
 
-## The Immigrant - 2020s
+## The Immigrant - 🔥
 A coffee delight.
 - **Espresso Coffee**  | 1.5  Ounces (45 ml)
 - **Baylies**  | 1  Ounce (30 ml)
 - **Vodka**  |1  Ounce (30 ml)
 - *stir*
 
-## Sambuca Vesper - 2020s
+## Sambuca Vesper - 🔥🔥🔥
 "Stirred, not shaken". Or was it "Shaken, not stirred"?
 - **London dry gin**  | 3 Ounces (90 ml)
 - **Vodka**  | 1  Ounce (30 ml)
@@ -103,7 +116,7 @@ A coffee delight.
 - *stir with ice*
 - Garnish: Lemon peel
 
-## Midori Sour - 1980s
+## Midori Sour - 🔥
 The sun is rising in the US.
 - **Midori**  | 1 Ounce (30 ml)
 - **Lime juice**  | 1  Ounce (30 ml)
@@ -111,7 +124,7 @@ The sun is rising in the US.
 - *stir with ice*
 - Garnish: Orange slice
 
-## Green Demon - ???
+## Green Demon - 🔥🔥🔥
 ... Rip and tear?
 - **Midori**  | 1 Ounce (30 ml)
 - **Vodka**  | 1  Ounce (30 ml)
@@ -121,6 +134,17 @@ The sun is rising in the US.
 - Garnish: Lemon slice
 
 # Shots
+
+## Tequila Bum Bum
+The classic.
+- **Tequila**  | 4/3 Ounce (45 ml)
+- Lemon Wedge
+- Salt
+
+## Rum & Pear
+Straight from the Filthiest Bars i've ever been to.
+- **White Rum**  | 4/3 Ounce (45 ml)
+- **Pear Juice**  | 4/3 Ounce (45 ml)
 
 ## Atomic dog shooter
 🎵"Atom bomb baby, little atom bomb, a million times hotter than TNT"🎵
