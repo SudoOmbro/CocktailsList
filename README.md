@@ -1,3 +1,5 @@
+# Cocktails
+
 ## Cuba Libre - 1900s
 The drink of true Patriots. And Libertarians.
 - **Dark Rum**  | 1  Ounce (30 ml)
@@ -100,3 +102,27 @@ A coffee delight.
 - **Sambuca**  | 1/2  Ounce (15 ml)
 - *stir with ice*
 - Garnish: Lemon peel
+
+## Midori Sour - 1980s
+The sun is rising in the US.
+- **Midori**  | 1 Ounce (30 ml)
+- **Lime juice**  | 1  Ounce (30 ml)
+- **Sprite**  | 2  Ounces (60 ml)
+- *stir with ice*
+- Garnish: Orange slice
+
+## Green Demon - ???
+The sun is rising in the US.
+- **Midori**  | 1 Ounce (30 ml)
+- **Vodka**  | 1  Ounce (30 ml)
+- **White Rum**  | 1  Ounce (30 ml)
+- Top with **Lemon Jiuce**
+- NO ICE
+- Garnish: Lemon slice
+
+# Shots
+
+## Atomic dog shooter
+- **Midori**  | 1/2 Ounce (15ml)
+- **Malibu**  | 1/2 Ounce (15ml)
+- **Dark Rum**  | 1/2 Ounce (15ml)
