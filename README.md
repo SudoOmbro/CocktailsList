@@ -33,6 +33,7 @@ The blade of the Shogun, directly into your liver.
 - **Vodka**  | 4/3  Ounce (45 ml)
 - **White rum** | 4/3  Ounce (45 ml)
 - **Midori** | 4/3  Ounce (45 ml)
+- **Gin** | 4/3  Ounce (45 ml)
 - **Sweet & Sour (Syroup + lemon juice)** | 2  Ounces (60 ml)
 - *Stir with ice*
 - Top with **Lemon Soda**
