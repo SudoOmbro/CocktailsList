@@ -30,15 +30,12 @@ There's no tea in it.
 
 ## Japanese ice tea - 🔥🔥🔥🔥
 The blade of the Shogun, directly into your liver.
-- **Vodka**  | 3/4  Ounce (20 ml)
-- **White rum** | 3/4  Ounce (20 ml)
-- **Midori** | 3/4  Ounce (20 ml)
-- **Triple sec** | 3/4  Ounce (20 ml)
-- **Gin**  | 3/4  Ounce (20 ml)
-- **Lemon juice** | 3/4  Ounce (20 ml)
-- *Stir*
-- Top with **Cola**
-- Garnish: Lemon wedge
+- **Vodka**  | 4/3  Ounce (45 ml)
+- **White rum** | 4/3  Ounce (45 ml)
+- **Midori** | 4/3  Ounce (45 ml)
+- **Sweet & Sour (Syroup + lemon juice)** | 2  Ounces (60 ml)
+- *Stir with ice*
+- Top with **Lemon Soda**
 
 ## Gin Tonic - 🔥
 It cures malaria! Or so the british said.
