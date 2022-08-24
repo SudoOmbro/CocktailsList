@@ -112,7 +112,7 @@ The sun is rising in the US.
 - Garnish: Orange slice
 
 ## Green Demon - ???
-The sun is rising in the US.
+... Rip and tear?
 - **Midori**  | 1 Ounce (30 ml)
 - **Vodka**  | 1  Ounce (30 ml)
 - **White Rum**  | 1  Ounce (30 ml)
