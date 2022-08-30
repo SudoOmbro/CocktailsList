@@ -68,11 +68,11 @@ A dark drink for darker times.
 
 ## Mojito - 🔥
 A Cuban classic.
-- 3  **mint leaves**
+- 3 / 12  **mint leaves**
 - **Simple syroup**  | 1/2  Ounce (15 ml)
 - **White Rum**  | 2  Ounces (60 ml)
-- **Lime juice** | 3/4  Ounce (20 ml)
-- *Shake with ice*
+- **Lime juice** | 1  Ounce (30 ml)
+- *Shake with ice* / *pestle gently until the color changes*
 - Top with **Club Soda**
 - Garnish: mint sprig
 - Garnish: lime wheel
