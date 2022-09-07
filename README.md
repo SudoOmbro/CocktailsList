@@ -131,6 +131,14 @@ The sun is rising in the US.
 - NO ICE
 - Garnish: Lemon slice
 
+## Grog - 🔥
+... Ahoy matey!
+- **Dark Rum**  | 1 Ounce (30 ml)
+- **Water**  | 4  Ounces (120 ml)
+- **Lime juice**  | 1  Ounce (30 ml)
+- **Simple syroup**  | 1/2  Ounce (15 ml)
+- *stir with ice*
+
 # Shots
 
 ## Tequila Bum Bum
