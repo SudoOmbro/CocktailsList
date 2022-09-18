@@ -150,7 +150,7 @@ The Puerto Rican connection
 - *serve with ice*
 - Garnish: pineapple wedge
 
-## The David Martinez - 🔥🔥
+## Martinez - 🔥🔥
 Aim High and go out with a bang.
 - **Vodka on the rocks (with ice)**  | 2 Ounces (60 ml)
 - **Red Bull / Monster Energy**  | 3 Ounces (120 ml)
