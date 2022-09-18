@@ -142,8 +142,8 @@ Ahoy matey!
 ## Piña colada - 🔥🔥
 The Puerto Rican connection
 - **White Rum**  | 2 Ounces (60 ml)
-- **Coconut cream**  | 5 1/2 Ounces (180 ml)
-- **Pineapple Juice**  | 5 1/2 Ounces (180 ml)
+- **Coconut cream**  | 5 1/2 Ounces (165 ml)
+- **Pineapple Juice**  | 5 1/2 Ounces (165 ml)
 - **Lime Juice**  | 1/2 Ounce (15 ml)
 - *Shake with ice - 30 seconds*
 - *Strain the foam*
