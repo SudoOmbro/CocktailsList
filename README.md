@@ -151,7 +151,7 @@ The Puerto Rican connection
 - Garnish: pineapple wedge
 
 ## The David Martinez - 🔥🔥
-"Sorry. Wish we could go to the moon together."
+Aim High and go out with a bang.
 - **Vodka on the rocks (with ice)**  | 2 Ounces (60 ml)
 - **Red Bull / Monster Energy**  | 3 Ounces (120 ml)
 - **Salt**  | a pinch
