@@ -132,11 +132,29 @@ The sun is rising in the US.
 - Garnish: Lemon slice
 
 ## Grog - 🔥
-... Ahoy matey!
+Ahoy matey!
 - **Dark Rum**  | 1 Ounce (30 ml)
-- **Water**  | 4  Ounces (120 ml)
+- **Water**  | 4 Ounces (120 ml)
 - **Lime juice**  | 1  Ounce (30 ml)
 - **Simple syroup**  | 1/2  Ounce (15 ml)
+- *stir with ice*
+
+## Piña colada - 🔥🔥
+The Puerto Rican connection
+- **White Rum**  | 2 Ounces (60 ml)
+- **Coconut cream**  | 5 1/2 Ounces (180 ml)
+- **Pineapple Juice**  | 5 1/2 Ounces (180 ml)
+- **Lime Juice**  | 1/2 Ounce (15 ml)
+- *Shake with ice - 30 seconds*
+- *Strain the foam*
+- *serve with ice*
+- Garnish: pineapple wedge
+
+## The David Martinez - 🔥🔥
+"Sorry. Wish we could go to the moon together."
+- **Vodka on the rocks (with ice)**  | 2 Ounces (60 ml)
+- **Red Bull / Monster Energy**  | 3 Ounces (120 ml)
+- **Salt**  | a pinch
 - *stir with ice*
 
 # Shots
