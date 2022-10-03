@@ -170,6 +170,25 @@ Aim High and go out with a bang.
 - **Salt**  | a pinch
 - *stir with ice*
 
+## Vodka Collins - 🔥
+A Lemonade for grown ups.
+- **Vodka**  | 1 1/2 Ounces (45 ml)
+- **Lemon Juice**  | 1 Ounce (30 ml)
+- **Simple syroup**  | 1/2  Ounce (15 ml)
+- Top with **Soda**
+- *Stir with ice*
+- Garnish: Orange slice
+- Garnish: Maraschino cherry
+
+## French 75
+They shall not pass.
+- **Gin**  | 1 Ounce (30 ml)
+- **Lemon Juice**  | 1/2 Ounce (15 ml)
+- **Simple syroup**  | 1/2  Ounce (15 ml)
+- **White sparkling wine (champagne is ideal)**  | 3 Ounces (90 ml)
+- Garnish: Lemon twist
+
+
 # Shots
 
 ## Tequila Bum Bum
