@@ -166,7 +166,8 @@ Aim High and go out with a bang.
 - **Vodka on the rocks (with ice)**  | 2 Ounces (60 ml)
 - **Red Bull / Monster Energy**  | 3 Ounces (120 ml)
 - **Coconut cream**  | 1/2 Ounce (15 ml)
-- **Lime Juice**  | 1/2 Ounce (15 ml)
+- **Lemon Juice**  | 1/2 Ounce (15 ml)
+- **Symple syroup**  | 1/2 Ounce (15 ml)
 - **Salt**  | a pinch
 - *stir with ice*
 
