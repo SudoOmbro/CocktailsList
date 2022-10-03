@@ -28,6 +28,17 @@ There's no tea in it.
 - Top with **Cola**
 - Garnish: Lemon wedge
 
+## Wrong Island  - 🔥🔥🔥🔥
+Improvise, adapt, overcome.
+- **Vodka**  | 1 1/2  Ounces (45 ml)
+- **White rum** | 1 1/2  Ounces (45 ml)
+- **Gin** | 1 1/2  Ounces (45 ml)
+- **Lemon juice** | 3/4  Ounce (20 ml)
+- *Stir*
+- Top with **Cola**
+- Garnish: Lemon wedge
+
+
 ## Japanese ice tea - 🔥🔥🔥🔥
 The blade of the Shogun, directly into your liver.
 - **Vodka**  | 4/3  Ounce (45 ml)
