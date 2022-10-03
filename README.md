@@ -189,6 +189,12 @@ They shall not pass.
 - Garnish: Lemon twist
 
 
+## The Livesey
+"Слова «ром» и «смерть» должны означать для вас одно и то же!"
+- **Coke**  | 1 Ounce (30 ml)
+- Top with **Dark Rum**
+
+
 # Shots
 
 ## Tequila Bum Bum
