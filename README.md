@@ -180,7 +180,7 @@ A Lemonade for grown ups.
 - Garnish: Orange slice
 - Garnish: Maraschino cherry
 
-## French 75
+## French 75 - 🔥🔥
 They shall not pass.
 - **Gin**  | 1 Ounce (30 ml)
 - **Lemon Juice**  | 1/2 Ounce (15 ml)
