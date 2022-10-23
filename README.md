@@ -214,3 +214,8 @@ Straight from the Filthiest Bars i've ever been to.
 - **Midori**  | 1/2 Ounce (15ml)
 - **Malibu**  | 1/2 Ounce (15ml)
 - **Dark Rum**  | 1/2 Ounce (15ml)
+
+## Jager bomb
+BY ALLAH YOU WILL HAVE A TASTE OF MY SHOE!
+- **Jägermeister**  | 1 1/2 Ounces (45ml)
+- **Red Bull**  | 1/2 Ounce (15ml)
