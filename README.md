@@ -193,7 +193,7 @@ May the divine wind take you higher.
 - **Lime juice**  | 1 Ounce (30 ml)
 - Garnish: Lime wedge
 
-## Cosmopolitan - 🔥
+## Vodka collins - 🔥
 A Lemonade for grown ups.
 - **Vodka**  | 1 1/2 Ounces (45 ml)
 - **Lemon Juice**  | 1 Ounce (30 ml)
