@@ -5,7 +5,14 @@ The drink of true Patriots. And Libertarians.
 - **Dark Rum**  | 1  Ounce (30 ml)
 - **Coca Cola**  | 3  Ounces (90 ml)
 - **Lime juice**  | 3/4  Ounce (20 ml)
-- *Stir*
+- *Stir with ice*
+- Garnish: Lime wedge
+
+## Jack & Coke - 🔥
+An all-American classic.
+- **Jack daniels**  | 1  Ounce (30 ml)
+- **Coca Cola**  | 4  Ounces (120 ml)
+- *Stir with ice*
 - Garnish: Lime wedge
 
 ## Daiquiri - 🔥🔥
@@ -24,7 +31,7 @@ There's no tea in it.
 - **Triple sec** | 3/4  Ounce (20 ml)
 - **Simple syroup**  | 3/4  Ounce (20 ml)
 - **Lemon juice** | 3/4  Ounce (20 ml)
-- *Stir*
+- *Stir with ice*
 - Top with **Cola**
 - Garnish: Lemon wedge
 
@@ -34,7 +41,7 @@ Improvise, adapt, overcome.
 - **White rum** | 1 1/2  Ounces (45 ml)
 - **Gin** | 1 1/2  Ounces (45 ml)
 - **Lemon juice** | 3/4  Ounce (20 ml)
-- *Stir*
+- *Stir with ice*
 - Top with **Cola**
 - Garnish: Lemon wedge
 
@@ -54,7 +61,7 @@ It cures malaria! Or so the british said.
 - **Gin**  | 2  Ounces (60 ml)
 - **Tonic water**  | 4  Ounces (120 ml)
 - **Lime juice** | 1 Tablespoon (15 ml)
-- *Stir*
+- *Stir with ice*
 - Garnish: Lime wedge
 
 ## Margarita - 🔥🔥
@@ -171,7 +178,22 @@ Aim High and go out with a bang.
 - **Salt**  | a pinch
 - *stir with ice*
 
-## Vodka Collins - 🔥
+## Cosmopolitan - 🔥🔥🔥
+NY city night out.
+- **Citron Vodka**  | 1 1/2 Ounces (45 ml)
+- **Lime Juice**  | 3/4 Ounce (25 ml)
+- **Triple sec**  | 3/4  Ounce (25 ml)
+- A teaspoon of **Grenadine**
+- Garnish: Lime wedge
+
+## Kamikaze - 🔥🔥🔥
+May the divine wind take you higher.
+- **Vodka**  | 1 Ounce (30 ml)
+- **Triple sec**  | 1 Ounce (30 ml)
+- **Lime juice**  | 1 Ounce (30 ml)
+- Garnish: Lime wedge
+
+## Cosmopolitan - 🔥
 A Lemonade for grown ups.
 - **Vodka**  | 1 1/2 Ounces (45 ml)
 - **Lemon Juice**  | 1 Ounce (30 ml)
@@ -188,6 +210,15 @@ They shall not pass.
 - **Simple syroup**  | 1/2  Ounce (15 ml)
 - **White sparkling wine (champagne is ideal)**  | 3 Ounces (90 ml)
 - Garnish: Lemon twist
+
+## Agua de valencia - 🔥🔥
+La noche en Valencia es caliente.
+- **Gin**  | 1/2 Ounce (15 ml)
+- **Vodka**  | 1/2 Ounce (15 ml)
+- **Lime juice**  | 1/2 Ounce (15 ml)
+- **Orange juice**  | 2 1/2  Ounces (75 ml)
+- **White sparkling wine (champagne is ideal)**  | 2 1/2 Ounces (75 ml)
+- Garnish: Orange slice
 
 
 ## The Livesey - 🔥🔥🔥🔥🔥
