@@ -220,6 +220,16 @@ La noche en Valencia es caliente.
 - **White sparkling wine (champagne is ideal)**  | 2 1/2 Ounces (75 ml)
 - Garnish: Orange slice
 
+## The Multi-Millionaire 🔥🔥🔥🔥
+Not quite a billionaire yet
+- **Bourbon**  | 2  Ounces (60 ml)
+- **Lemon Juice**  | 1 Ounce (30 ml)
+- **Grenadine**  | 1/2 Ounce (15 ml)
+- **Simple Syrup**  | 1/2 Ounce (15 ml)
+- **Absinthe**  | 1/4 Ounce (7.5 ml)
+- **Angostura bitters**  | A dash
+- *Shake with ice*
+- Garnish: Lemon wheel
 
 ## The Livesey - 🔥🔥🔥🔥🔥
 "Слова «ром» и «смерть» должны означать для вас одно и то же!"
