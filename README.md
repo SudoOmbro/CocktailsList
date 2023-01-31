@@ -224,8 +224,8 @@ La noche en Valencia es caliente.
 Not quite a billionaire yet
 - **Bourbon**  | 2  Ounces (60 ml)
 - **Lemon Juice**  | 1 Ounce (30 ml)
-- **Grenadine**  | 1/2 Ounce (15 ml)
-- **Simple Syrup**  | 1/2 Ounce (15 ml)
+- **Grenadine**  | 1/4 Ounce (7.5 ml)
+- **Simple Syrup**  | 1/4 Ounce (7.5 ml)
 - **Absinthe**  | 1/4 Ounce (7.5 ml)
 - **Angostura bitters**  | A dash
 - *Shake with ice*
