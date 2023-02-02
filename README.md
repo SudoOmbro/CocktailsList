@@ -45,6 +45,23 @@ Improvise, adapt, overcome.
 - Top with **Cola**
 - Garnish: Lemon wedge
 
+## Caipirinha - 🔥🔥
+Dance, little country girl, dance until the morning sun rises.
+- 1 **Lime**, cut into wedges
+- **Sugar**  | 2 Teaspoons
+- *Muddle in glass*
+- **Cachaça**  | 2 Ounces (60 ml)
+- *Stir with ice*
+- Garnish: lime wheel
+
+## Caipiroska - 🔥🔥🔥
+бразилия
+- 1 **Lime**, cut into wedges
+- **Sugar**  | 2 Teaspoons
+- *Muddle in glass*
+- **Vodka**  | 2 Ounces (60 ml)
+- *Stir with ice*
+- Garnish: lime wheel
 
 ## Japanese ice tea - 🔥🔥🔥🔥
 The blade of the Shogun, directly into your liver.
@@ -224,10 +241,11 @@ La noche en Valencia es caliente.
 Not quite a billionaire yet
 - **Bourbon**  | 2  Ounces (60 ml)
 - **Lemon Juice**  | 1 Ounce (30 ml)
-- **Grenadine**  | 1/4 Ounce (7.5 ml)
+- **Lime Juice**  | 1/2 Ounce (15 ml)
+- **Grenadine**  | 1/2 Ounce (15 ml)
 - **Simple Syrup**  | 1/4 Ounce (7.5 ml)
 - **Absinthe**  | 1/4 Ounce (7.5 ml)
-- **Angostura bitters**  | A dash
+- **Angostura bitters**  | 1 dash
 - *Shake with ice*
 - Garnish: Lemon wheel
 
