@@ -15,6 +15,17 @@ An all-American classic.
 - *Stir with ice*
 - Garnish: Lime wedge
 
+## Old Fashioned - 🔥🔥
+The one that started it all
+- *prepare in mixing glass*
+- **Sugar**  | 1 barspoon
+- **Angostura bitters**  | 3 dashes
+- **Water**  | 1/4 Ounce (7.5 ml)
+- **Bourbon**  | 2 Ounces (60 ml)
+- *Stir until sugar is dissolved*
+- *Strain into a rocks glass over one large ice cube*
+- *Express the oil of an orange twist over the glass, then drop into the glass to garnish*
+
 ## Daiquiri - 🔥🔥
 What did Ernest Hemingway and John F. Kennedy have in common? They both died from a bullet. Also this drink.
 - **Light Rum**  | 2  Ounces (60 ml)
@@ -237,9 +248,9 @@ La noche en Valencia es caliente.
 - **White sparkling wine (champagne is ideal)**  | 2 1/2 Ounces (75 ml)
 - Garnish: Orange slice
 
-## The Multi-Millionaire 🔥🔥🔥🔥
-Not quite a billionaire yet
-- **Bourbon**  | 2  Ounces (60 ml)
+## The Multi-Millionaire - 🔥🔥🔥🔥
+Not quite a billionaire yet.
+- **Bourbon**  | 2 Ounces (60 ml)
 - **Lemon Juice**  | 1 Ounce (30 ml)
 - **Lime Juice**  | 1/2 Ounce (15 ml)
 - **Grenadine**  | 1/2 Ounce (15 ml)
@@ -248,6 +259,15 @@ Not quite a billionaire yet
 - **Angostura bitters**  | 1 dash
 - *Shake with ice*
 - Garnish: Lemon wheel
+
+## The Mary Pickford - 🔥🔥🔥
+A night in Gatsby's mansion.
+- **White Rum** | 2 Ouces (60 ml)
+- **Pineapple Juice** | 1 1/2 Ouces (45 ml)
+- **Grenadine** | 2 barspoons
+- **Maraschino** | 1 barspoon
+- *Shake with ice*
+- Garnish: Luxardo Cherries
 
 ## The Livesey - 🔥🔥🔥🔥🔥
 "Слова «ром» и «смерть» должны означать для вас одно и то же!"
