@@ -298,3 +298,16 @@ Straight from the Filthiest Bars i've ever been to.
 BY ALLAH YOU WILL HAVE A TASTE OF MY SHOE!
 - **Jägermeister**  | 1 1/2 Ounces (45ml)
 - **Red Bull**  | 1/2 Ounce (15ml)
+
+## Relic
+ "A happier enging? Wrong city, wrong people."
+- **Vodka**  | 1/2 Onuce (15 ml)
+- **Kahlua**  | 1/2 Onuce (15 ml)
+- **Club Soda**  | 1/2 Onuce (15 ml)
+- *Add a drop of grenadine*
+
+## Irish car bomb
+"Come out ye Black-and-Tans!"
+- **Irish Whiskey**  | 1/2 Onuce (15 ml)
+- **Baylies**  | 1/2 Onuce (15 ml)
+- *Top with guinnes*
