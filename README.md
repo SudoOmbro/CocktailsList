@@ -20,7 +20,7 @@ The one that started it all
 - *prepare in mixing glass*
 - **Sugar**  | 1 barspoon
 - **Angostura bitters**  | 3 dashes
-- **Water**  | 1/4 Ounce (7.5 ml)
+- **Water**  | 1 Ounce (30 ml)
 - **Bourbon**  | 2 Ounces (60 ml)
 - *Stir until sugar is dissolved*
 - *Strain into a rocks glass over one large ice cube*
