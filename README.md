@@ -15,6 +15,72 @@ An all-American classic.
 - *Stir with ice*
 - Garnish: Lime wedge
 
+## The Immigrant - 🔥
+A coffee delight.
+- **Espresso Coffee**  | 1.5  Ounces (45 ml)
+- **Baylies**  | 1  Ounce (30 ml)
+- **Vodka**  |1  Ounce (30 ml)
+- *stir*
+
+## Midori Sour - 🔥
+The sun is rising in the US.
+- **Midori**  | 1 Ounce (30 ml)
+- **Lime juice**  | 1  Ounce (30 ml)
+- **Sprite**  | 2  Ounces (60 ml)
+- *stir with ice*
+- Garnish: Orange slice
+
+## Grog - 🔥
+Ahoy matey!
+- **Dark Rum**  | 1 Ounce (30 ml)
+- **Water**  | 4 Ounces (120 ml)
+- **Lime juice**  | 1  Ounce (30 ml)
+- **Simple syroup**  | 1/2  Ounce (15 ml)
+- *stir with ice*
+
+## Vodka collins - 🔥
+A Lemonade for grown ups.
+- **Vodka**  | 1 1/2 Ounces (45 ml)
+- **Lemon Juice**  | 1 Ounce (30 ml)
+- **Simple syroup**  | 1/2  Ounce (15 ml)
+- Top with **Soda**
+- *Stir with ice*
+- Garnish: Orange slice
+- Garnish: Maraschino cherry
+
+## Tequila Sunrise - 🔥🔥
+California in a glass.
+- **Tequila**  | 2  Ounces (60 ml)
+- **Orange Juice**  | 4  Ounces (120 ml)
+- **Grenadine**  | 1/2  Ounce (15 ml)
+- Garnish: Orange slice & Cherry
+
+## Moscow Mule - 🔥🔥
+Or "How to trick a nation into drinking hard liqour".
+- **Vodka**  | 2  Ounces (60 ml)
+- **Lime juice**  | 1/2 Ounce (15 ml)
+- **Ginger root beer**  | 3  Ounces (90 ml)
+- Garnish: lime wheel
+
+## Gin Tonic - 🔥🔥
+It cures malaria! Or so the british said.
+- **Gin**  | 2  Ounces (60 ml)
+- **Tonic water**  | 4  Ounces (120 ml)
+- **Lime juice** | 1 Tablespoon (15 ml)
+- *Stir with ice*
+- Garnish: Lime wedge
+
+## Mojito - 🔥🔥
+A Cuban classic.
+- 3 / 12  **mint leaves**
+- **Simple syroup**  | 1/2  Ounce (15 ml)
+- **White Rum**  | 2  Ounces (60 ml)
+- **Lime juice** | 1  Ounce (30 ml)
+- *Shake with ice* / *pestle gently until the color changes*
+- Top with **Club Soda**
+- Garnish: mint sprig
+- Garnish: lime wheel
+
 ## Old Fashioned - 🔥🔥
 The one that started it all
 - *prepare in mixing glass*
@@ -33,6 +99,131 @@ What did Ernest Hemingway and John F. Kennedy have in common? They both died fro
 - **Simple syroup**  | 3/4  Ounce (20 ml)
 - *Shake with ice*
 - Garnish: Lime twist
+
+## Caipirinha - 🔥🔥
+Dance, little country girl, dance until the morning sun rises.
+- 1 **Lime**, cut into wedges
+- **Sugar**  | 2 Teaspoons
+- *Muddle in glass*
+- **Cachaça**  | 2 Ounces (60 ml)
+- *Stir with ice*
+- Garnish: lime wheel
+
+## Caipiroska - 🔥🔥
+бразилия
+- 1 **Lime**, cut into wedges
+- **Sugar**  | 2 Teaspoons
+- *Muddle in glass*
+- **Vodka**  | 2 Ounces (60 ml)
+- *Stir with ice*
+- Garnish: lime wheel
+
+##  White Russian - 🔥🔥
+The Dude Abides.
+- **Vodka**  | 2  Ounces (60 ml)
+- **Kahlúa**  | 1  Ounce (30 ml)
+- Top with **heavy cream / milk**
+
+##  Black Russian - 🔥🔥
+A dark drink for darker times.
+- **Vodka**  | 2  Ounces (60 ml)
+- **Kahlúa**  | 1  Ounce (30 ml)
+
+## Martinez - 🔥🔥
+Aim High and go out with a bang.
+- **Vodka**  | 2 Ounces (60 ml)
+- **Red Bull / Monster Energy**  | 3 Ounces (120 ml)
+- **Coconut cream**  | 1/2 Ounce (15 ml)
+- **Lemon Juice**  | 1/2 Ounce (15 ml)
+- *stir with ice*
+
+## French 75 - 🔥🔥
+They shall not pass.
+- **Gin**  | 1 Ounce (30 ml)
+- **Lemon Juice**  | 1/2 Ounce (15 ml)
+- **Simple syroup**  | 1/2  Ounce (15 ml)
+- **White sparkling wine (champagne is ideal)**  | 3 Ounces (90 ml)
+- Garnish: Lemon twist
+
+## Agua de valencia - 🔥🔥
+La noche en Valencia es caliente.
+- **Gin**  | 1/2 Ounce (15 ml)
+- **Vodka**  | 1/2 Ounce (15 ml)
+- **Lime juice**  | 1/2 Ounce (15 ml)
+- **Orange juice**  | 2 1/2  Ounces (75 ml)
+- **White sparkling wine (champagne is ideal)**  | 2 1/2 Ounces (75 ml)
+- Garnish: Orange slice
+
+## Margarita - 🔥🔥
+From Tijuana, with Love.
+- **Tequila**  | 2  Ounces (60 ml)
+- **Orange liquer (triple sec)**  | 1/2  Ounce (15 ml)
+- **Lime juice**  | 1  Ounce (30 ml)
+- **Agave syroup**  | 1/2  Ounce (15 ml)
+- *Shake with ice*
+- Garnish: lime wheel + salt rim
+
+## Italian Margarita - 🔥🔥🔥
+"Eh ostia che canela!"
+- **Orange Juice**  | 3 Ounces (90 ml)
+- **Tequila reposado**  | 2 Ounces (60 ml)
+- **Amaretto**  | 1 Ounce (30 ml)
+- **Lime Juice**  | 1 Ounce (30 ml)
+- *Shake with ice*
+- Garnish: Salt rimmed glass
+- Garnish: Lime wedge
+
+## Piña colada - 🔥🔥🔥
+The Puerto Rican connection
+- **White Rum**  | 2 Ounces (60 ml)
+- **Coconut cream**  | 5 1/2 Ounces (165 ml)
+- **Pineapple Juice**  | 5 1/2 Ounces (165 ml)
+- **Lime Juice**  | 1/2 Ounce (15 ml)
+- *Shake with ice - 30 seconds*
+- *Strain the foam*
+- *serve with ice*
+- Garnish: pineapple wedge
+
+## Cosmopolitan - 🔥🔥🔥
+NY city night out.
+- **Citron Vodka**  | 1 1/2 Ounces (45 ml)
+- **Lime Juice**  | 3/4 Ounce (25 ml)
+- **Triple sec**  | 3/4  Ounce (25 ml)
+- A teaspoon of **Grenadine**
+- Garnish: Lime wedge
+
+## The Mary Pickford - 🔥🔥🔥
+A night in Gatsby's mansion.
+- **White Rum** | 2 Ouces (60 ml)
+- **Pineapple Juice** | 1 1/2 Ouces (45 ml)
+- **Grenadine** | 2 barspoons
+- **Maraschino** | 1 barspoon
+- *Shake with ice*
+- Garnish: Luxardo Cherries
+
+## Kamikaze - 🔥🔥🔥
+May the divine wind take you higher.
+- **Vodka**  | 1 Ounce (30 ml)
+- **Triple sec**  | 1 Ounce (30 ml)
+- **Lime juice**  | 1 Ounce (30 ml)
+- Garnish: Lime wedge
+
+## КГБ (KGB) - 🔥🔥🔥
+RUSH B
+- **Vodka**  | 1  Ounce (30 ml)
+- **Gin**  | 1  Ounce (30 ml)
+- **Orange liquer (triple sec)**  | 1  Ounce (30 ml)
+- Top with **Soda**
+- *Shake with ice*
+
+## Green Demon - 🔥🔥🔥
+... Rip and tear?
+- **Midori**  | 1 Ounce (30 ml)
+- **Vodka**  | 1  Ounce (30 ml)
+- **White Rum**  | 1  Ounce (30 ml)
+- Top with **Lemon Jiuce**
+- NO ICE
+- Garnish: Lemon slice
 
 ## Long Island iced tea - 🔥🔥🔥🔥
 There's no tea in it.
@@ -56,24 +247,6 @@ Improvise, adapt, overcome.
 - Top with **Cola**
 - Garnish: Lemon wedge
 
-## Caipirinha - 🔥🔥
-Dance, little country girl, dance until the morning sun rises.
-- 1 **Lime**, cut into wedges
-- **Sugar**  | 2 Teaspoons
-- *Muddle in glass*
-- **Cachaça**  | 2 Ounces (60 ml)
-- *Stir with ice*
-- Garnish: lime wheel
-
-## Caipiroska - 🔥🔥🔥
-бразилия
-- 1 **Lime**, cut into wedges
-- **Sugar**  | 2 Teaspoons
-- *Muddle in glass*
-- **Vodka**  | 2 Ounces (60 ml)
-- *Stir with ice*
-- Garnish: lime wheel
-
 ## Japanese ice tea - 🔥🔥🔥🔥
 The blade of the Shogun, directly into your liver.
 - **Vodka**  | 4/3  Ounce (45 ml)
@@ -83,181 +256,6 @@ The blade of the Shogun, directly into your liver.
 - **Sweet & Sour (Syroup + lemon juice)** | 2  Ounces (60 ml)
 - *Stir with ice*
 - Top with **Lemon Soda**
-
-## Gin Tonic - 🔥
-It cures malaria! Or so the british said.
-- **Gin**  | 2  Ounces (60 ml)
-- **Tonic water**  | 4  Ounces (120 ml)
-- **Lime juice** | 1 Tablespoon (15 ml)
-- *Stir with ice*
-- Garnish: Lime wedge
-
-## Margarita - 🔥🔥
-From Tijuana, with Love.
-- **Tequila**  | 2  Ounces (60 ml)
-- **Orange liquer (triple sec)**  | 1/2  Ounce (15 ml)
-- **Lime juice**  | 1  Ounce (30 ml)
-- **Agave syroup**  | 1/2  Ounce (15 ml)
-- *Shake with ice*
-- Garnish: lime wheel + salt rim
-
-## Italian Margarita - 🔥🔥🔥
-"Eh ostia che canela!"
-- **Orange Juice**  | 3 Ounces (90 ml)
-- **Tequila reposado**  | 2 Ounces (60 ml)
-- **Amaretto**  | 1 Ounce (30 ml)
-- **Lime Juice**  | 1 Ounce (30 ml)
-- *Shake with ice*
-- Garnish: Salt rimmed glass
-- Garnish: Lime wedge
-
-##  White Russian - 🔥🔥
-The Dude Abides.
-- **Vodka**  | 2  Ounces (60 ml)
-- **Kahlúa**  | 1  Ounce (30 ml)
-- Top with **heavy cream / milk**
-
-##  Black Russian - 🔥🔥
-A dark drink for darker times.
-- **Vodka**  | 2  Ounces (60 ml)
-- **Kahlúa**  | 1  Ounce (30 ml)
-
-## Mojito - 🔥
-A Cuban classic.
-- 3 / 12  **mint leaves**
-- **Simple syroup**  | 1/2  Ounce (15 ml)
-- **White Rum**  | 2  Ounces (60 ml)
-- **Lime juice** | 1  Ounce (30 ml)
-- *Shake with ice* / *pestle gently until the color changes*
-- Top with **Club Soda**
-- Garnish: mint sprig
-- Garnish: lime wheel
-
-## КГБ (KGB) - 🔥🔥🔥
-RUSH B
-- **Vodka**  | 1  Ounce (30 ml)
-- **Gin**  | 1  Ounce (30 ml)
-- **Orange liquer (triple sec)**  | 1  Ounce (30 ml)
-- Top with **Soda**
-- *Shake with ice*
-
-## Tequila Sunrise - 🔥
-California in a glass.
-- **Tequila**  | 2  Ounces (60 ml)
-- **Orange Juice**  | 4  Ounces (120 ml)
-- **Grenadine**  | 1/2  Ounce (15 ml)
-- Garnish: Orange slice & Cherry
-
-## Moscow Mule - 🔥
-Or "How to trick a nation into drinking hard liqour".
-- **Vodka**  | 2  Ounces (60 ml)
-- **Lime juice**  | 1/2 Ounce (15 ml)
-- **Ginger root beer**  | 3  Ounces (90 ml)
-- Garnish: lime wheel
-
-## The Immigrant - 🔥
-A coffee delight.
-- **Espresso Coffee**  | 1.5  Ounces (45 ml)
-- **Baylies**  | 1  Ounce (30 ml)
-- **Vodka**  |1  Ounce (30 ml)
-- *stir*
-
-## Midori Sour - 🔥
-The sun is rising in the US.
-- **Midori**  | 1 Ounce (30 ml)
-- **Lime juice**  | 1  Ounce (30 ml)
-- **Sprite**  | 2  Ounces (60 ml)
-- *stir with ice*
-- Garnish: Orange slice
-
-## Green Demon - 🔥🔥🔥
-... Rip and tear?
-- **Midori**  | 1 Ounce (30 ml)
-- **Vodka**  | 1  Ounce (30 ml)
-- **White Rum**  | 1  Ounce (30 ml)
-- Top with **Lemon Jiuce**
-- NO ICE
-- Garnish: Lemon slice
-
-## Grog - 🔥
-Ahoy matey!
-- **Dark Rum**  | 1 Ounce (30 ml)
-- **Water**  | 4 Ounces (120 ml)
-- **Lime juice**  | 1  Ounce (30 ml)
-- **Simple syroup**  | 1/2  Ounce (15 ml)
-- *stir with ice*
-
-## Piña colada - 🔥🔥
-The Puerto Rican connection
-- **White Rum**  | 2 Ounces (60 ml)
-- **Coconut cream**  | 5 1/2 Ounces (165 ml)
-- **Pineapple Juice**  | 5 1/2 Ounces (165 ml)
-- **Lime Juice**  | 1/2 Ounce (15 ml)
-- *Shake with ice - 30 seconds*
-- *Strain the foam*
-- *serve with ice*
-- Garnish: pineapple wedge
-
-## Martinez - 🔥🔥
-Aim High and go out with a bang.
-- **Vodka on the rocks (with ice)**  | 2 Ounces (60 ml)
-- **Red Bull / Monster Energy**  | 3 Ounces (120 ml)
-- **Coconut cream**  | 1/2 Ounce (15 ml)
-- **Lemon Juice**  | 1/2 Ounce (15 ml)
-- **Symple syroup**  | 1/2 Ounce (15 ml)
-- **Salt**  | a pinch
-- *stir with ice*
-
-## Cosmopolitan - 🔥🔥🔥
-NY city night out.
-- **Citron Vodka**  | 1 1/2 Ounces (45 ml)
-- **Lime Juice**  | 3/4 Ounce (25 ml)
-- **Triple sec**  | 3/4  Ounce (25 ml)
-- A teaspoon of **Grenadine**
-- Garnish: Lime wedge
-
-## Kamikaze - 🔥🔥🔥
-May the divine wind take you higher.
-- **Vodka**  | 1 Ounce (30 ml)
-- **Triple sec**  | 1 Ounce (30 ml)
-- **Lime juice**  | 1 Ounce (30 ml)
-- Garnish: Lime wedge
-
-## Vodka collins - 🔥
-A Lemonade for grown ups.
-- **Vodka**  | 1 1/2 Ounces (45 ml)
-- **Lemon Juice**  | 1 Ounce (30 ml)
-- **Simple syroup**  | 1/2  Ounce (15 ml)
-- Top with **Soda**
-- *Stir with ice*
-- Garnish: Orange slice
-- Garnish: Maraschino cherry
-
-## French 75 - 🔥🔥
-They shall not pass.
-- **Gin**  | 1 Ounce (30 ml)
-- **Lemon Juice**  | 1/2 Ounce (15 ml)
-- **Simple syroup**  | 1/2  Ounce (15 ml)
-- **White sparkling wine (champagne is ideal)**  | 3 Ounces (90 ml)
-- Garnish: Lemon twist
-
-## Agua de valencia - 🔥🔥
-La noche en Valencia es caliente.
-- **Gin**  | 1/2 Ounce (15 ml)
-- **Vodka**  | 1/2 Ounce (15 ml)
-- **Lime juice**  | 1/2 Ounce (15 ml)
-- **Orange juice**  | 2 1/2  Ounces (75 ml)
-- **White sparkling wine (champagne is ideal)**  | 2 1/2 Ounces (75 ml)
-- Garnish: Orange slice
-
-## The Mary Pickford - 🔥🔥🔥
-A night in Gatsby's mansion.
-- **White Rum** | 2 Ouces (60 ml)
-- **Pineapple Juice** | 1 1/2 Ouces (45 ml)
-- **Grenadine** | 2 barspoons
-- **Maraschino** | 1 barspoon
-- *Shake with ice*
-- Garnish: Luxardo Cherries
 
 ## The Multi-Millionaire - 🔥🔥🔥🔥
 Not quite a billionaire yet.
