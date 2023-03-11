@@ -162,14 +162,6 @@ A coffee delight.
 - **Vodka**  |1  Ounce (30 ml)
 - *stir*
 
-## Sambuca Vesper - 🔥🔥🔥
-"Stirred, not shaken". Or was it "Shaken, not stirred"?
-- **London dry gin**  | 3 Ounces (90 ml)
-- **Vodka**  | 1  Ounce (30 ml)
-- **Sambuca**  | 1/2  Ounce (15 ml)
-- *stir with ice*
-- Garnish: Lemon peel
-
 ## Midori Sour - 🔥
 The sun is rising in the US.
 - **Midori**  | 1 Ounce (30 ml)
@@ -258,6 +250,15 @@ La noche en Valencia es caliente.
 - **White sparkling wine (champagne is ideal)**  | 2 1/2 Ounces (75 ml)
 - Garnish: Orange slice
 
+## The Mary Pickford - 🔥🔥🔥
+A night in Gatsby's mansion.
+- **White Rum** | 2 Ouces (60 ml)
+- **Pineapple Juice** | 1 1/2 Ouces (45 ml)
+- **Grenadine** | 2 barspoons
+- **Maraschino** | 1 barspoon
+- *Shake with ice*
+- Garnish: Luxardo Cherries
+
 ## The Multi-Millionaire - 🔥🔥🔥🔥
 Not quite a billionaire yet.
 - **Bourbon**  | 2 Ounces (60 ml)
@@ -270,14 +271,13 @@ Not quite a billionaire yet.
 - *Shake with ice*
 - Garnish: Lemon wheel
 
-## The Mary Pickford - 🔥🔥🔥
-A night in Gatsby's mansion.
-- **White Rum** | 2 Ouces (60 ml)
-- **Pineapple Juice** | 1 1/2 Ouces (45 ml)
-- **Grenadine** | 2 barspoons
-- **Maraschino** | 1 barspoon
-- *Shake with ice*
-- Garnish: Luxardo Cherries
+## Sambuca Vesper - 🔥🔥🔥🔥🔥
+"Stirred, not shaken". Or was it "Shaken, not stirred"?
+- **London dry gin**  | 3 Ounces (90 ml)
+- **Vodka**  | 1  Ounce (30 ml)
+- **Sambuca**  | 1/2  Ounce (15 ml)
+- *stir with ice*
+- Garnish: Lemon peel
 
 ## The Livesey - 🔥🔥🔥🔥🔥
 "Слова «ром» и «смерть» должны означать для вас одно и то же!"
