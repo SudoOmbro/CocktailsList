@@ -101,6 +101,16 @@ From Tijuana, with Love.
 - *Shake with ice*
 - Garnish: lime wheel + salt rim
 
+## Italian Margarita - 🔥🔥🔥
+"Eh ostia che canela!"
+- **Orange Juice**  | 3 Ounces (90 ml)
+- **Tequila reposado**  | 2 Ounces (60 ml)
+- **Amaretto**  | 1 Ounce (30 ml)
+- **Lime Juice**  | 1 Ounce (30 ml)
+- *Shake with ice*
+- Garnish: Salt rimmed glass
+- Garnish: Lime wedge
+
 ##  White Russian - 🔥🔥
 The Dude Abides.
 - **Vodka**  | 2  Ounces (60 ml)
