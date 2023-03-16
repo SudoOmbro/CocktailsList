@@ -135,6 +135,7 @@ Aim High and go out with a bang.
 - **Red Bull / Monster Energy**  | 3 Ounces (120 ml)
 - **Coconut cream**  | 1/2 Ounce (15 ml)
 - **Lemon Juice**  | 1/2 Ounce (15 ml)
+- **Angostura bitters**  | 3 Dashes
 - *stir with ice*
 
 ## French 75 - 🔥🔥
