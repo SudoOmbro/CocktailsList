@@ -215,7 +215,8 @@ RUSH B
 - **Gin**  | 1  Ounce (30 ml)
 - **Orange liquer (triple sec)**  | 1  Ounce (30 ml)
 - Top with **Soda**
-- *Shake with ice*
+- *Stir with ice*
+- Garnish: Lemon slice
 
 ## Green Demon - 🔥🔥🔥
 ... Rip and tear?
