@@ -164,6 +164,33 @@ From Tijuana, with Love.
 - *Shake with ice*
 - Garnish: lime wheel + salt rim
 
+## Negrini - 🔥🔥🔥
+"El racista y el femboy"
+- **Martini**  | 1 Ounce (30 ml)
+- **Dark Vermouth**  | 1 Ounce (30 ml)
+- **Gin**  | 1 Ounce (30 ml)
+- **Jegerminster**  | 1/2 Ounce (15 ml)
+- *Stir with ice*
+- Garnish: dried orange slice
+
+## Aqua Velva - 🔥🔥🔥
+Aftershave freshness in a glass
+- **Gin**  | 1 Ounce (30 ml)
+- **Vodka**  | 1 Ounce (30 ml)
+- **Blue Curacao**  | 3/4 Ounce (20 ml)
+- Top with **Lemon Soda**
+- Garnish: Cocktail umbrella *or* lemon slice
+
+## Blue Lagoon - 🔥🔥🔥
+🎵"The special love I have for you, My baby blue!"🎵
+- **Vodka**  | 1 Ounce (30 ml)
+- **Blue Curacao**  | 1 Ounce (30 ml)
+- **Lemonade**  | 4 Ounces (120 ml)
+- *Shake with ice*
+- *strain over crushed ice*
+- Garnish: Lemon wheel
+- Garnish: Maraschino cherry
+
 ## Italian Margarita - 🔥🔥🔥
 "Eh ostia che canela!"
 - **Orange Juice**  | 3 Ounces (90 ml)
