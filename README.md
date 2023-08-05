@@ -30,6 +30,14 @@ The sun is rising in the US.
 - *stir with ice*
 - Garnish: Orange slice
 
+## Paloma - 🔥
+The national drink of Mexico!
+- **Tequila**  | 2 Ounces (60 ml)
+- **Lime juice**  | 1/2  Ounce (15 ml)
+- Top with **Grapefruit Soda**
+- Garnish: lime wheel
+- Garnish: salt rim
+
 ## Grog - 🔥
 Ahoy matey!
 - **Dark Rum**  | 1 Ounce (30 ml)
@@ -65,6 +73,14 @@ Or "How to trick a nation into drinking hard liqour".
 ## Gin Tonic - 🔥🔥
 It cures malaria! Or so the british said.
 - **Gin**  | 2  Ounces (60 ml)
+- **Tonic water**  | 4  Ounces (120 ml)
+- **Lime juice** | 1 Tablespoon (15 ml)
+- *Stir with ice*
+- Garnish: Lime wedge
+
+## Beton - 🔥🔥
+Na zdraví!
+- **Becherovka**  | 2  Ounces (60 ml)
 - **Tonic water**  | 4  Ounces (120 ml)
 - **Lime juice** | 1 Tablespoon (15 ml)
 - *Stir with ice*
