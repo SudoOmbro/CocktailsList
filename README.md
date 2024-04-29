@@ -197,6 +197,17 @@ Aftershave freshness in a glass
 - Top with **Lemon Soda**
 - Garnish: Cocktail umbrella *or* lemon slice
 
+## Dirty bomb - 🔥🔥🔥
+Uranium fever!
+- **Vodka**  | 3/4 Ounce (20 ml)
+- **Armagnac**  | 1 Ounce (30 ml)
+- **Blue Curacao**  | 1/4 Ounce (10 ml)
+- **Absynth**  | a barspoon
+- **Lemon soda**  | 2 Ounce (60 ml)
+- **Angostura bitters**  | 2 dashes
+- *Stir with ice*
+- Garnish: Smoke
+
 ## Blue Lagoon - 🔥🔥🔥
 🎵"The special love I have for you, My baby blue!"🎵
 - **Vodka**  | 1 Ounce (30 ml)
